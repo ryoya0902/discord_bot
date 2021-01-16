@@ -1,4 +1,7 @@
 ## Discord Bot  
+### データ  
+学習済みパラメータは[ここ](https://drive.google.com/file/d/1PEJpuzeFYxR9SIamCUowg-Ahw854eaQG/view?usp=sharing)からダウンロードしてください  
+token.txtには作成したDiscord Botのアクセストークンを入れてください  
 ### インストール
 ```
 git clone https://github.com/ryoya0902/discord_bot
