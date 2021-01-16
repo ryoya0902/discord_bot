@@ -30,7 +30,7 @@ python3 discordbot.py
 /clear : ログ削除
 /kill : 強制終了
 ```
-### 注意事項
+### 注意
 SSの対話文で学習させているため、不適切な発言をする場合があります  
 ### 対話例1
 ![img](https://user-images.githubusercontent.com/63792861/104793827-60524b80-57e7-11eb-928f-e969999a9097.png)
