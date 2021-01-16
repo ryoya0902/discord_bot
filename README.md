@@ -32,6 +32,7 @@ python3 discordbot.py
 ```
 ### 注意
 SSの対話文で学習させているため、不適切な発言をする場合があります  
+使用する際は自己責任でお願いします  
 ### 対話例1
 ![img](https://user-images.githubusercontent.com/63792861/104793827-60524b80-57e7-11eb-928f-e969999a9097.png)
 ### 対話例2
