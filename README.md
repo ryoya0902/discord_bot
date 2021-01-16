@@ -28,4 +28,8 @@ python3 discordbot.py
 /clear : ログ削除
 /kill : 強制終了
 ```
-### 対話例
+###  対話
+#### 対話例1
+![img](https://user-images.githubusercontent.com/63792861/104793827-60524b80-57e7-11eb-928f-e969999a9097.png)
+#### 対話例2
+![img](https://user-images.githubusercontent.com/63792861/104793833-6ea06780-57e7-11eb-95f0-27fabf7c680b.png)
