@@ -125,10 +125,10 @@ class Reply:
             text = self.translator.translate(text, src="ja", dest="en").text
             text = self.translator.translate(text, src="en", dest="ja").text
         if self.text_pp:
-            text = self.test_postprocessing(text, user_name)
+            text = self.text_postprocessing(text, user_name)
         return text, reaction
 
-    def test_postprocessing(self, text, user_name):
+    def text_postprocessing(self, text, user_name):
         text = text.replace("あなた", user_name + "さん")
         text = text.replace("お前", user_name + "さん")
         text = text.replace("御坂さん", user_name + "さん")
